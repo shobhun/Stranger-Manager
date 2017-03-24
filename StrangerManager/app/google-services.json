@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "350602463051",
+    "firebase_url": "https://strangermanager-c8dd2.firebaseio.com",
+    "project_id": "strangermanager-c8dd2",
+    "storage_bucket": "strangermanager-c8dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350602463051:android:bc684f2471888b16",
+        "android_client_info": {
+          "package_name": "com.example.admin.strangermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350602463051-atapnrqtqtvnn50vc2p99h5gtnh5tupu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.strangermanager",
+            "certificate_hash": "d000ebc10bda5627f425f451bd0219b098add3cb"
+          }
+        },
+        {
+          "client_id": "350602463051-eucrtl3tr8j6qkfinlehcvdc0gr3a60i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.strangermanager",
+            "certificate_hash": "cc93ff412c3c26332e8e9df1a163edf4da6cf50d"
+          }
+        },
+        {
+          "client_id": "350602463051-5h8u9jjau5bau9afofrf3ev1bm5anh5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL2o0V4emk_t8E640L_h6LxRrAze_WJis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350602463051-5h8u9jjau5bau9afofrf3ev1bm5anh5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
